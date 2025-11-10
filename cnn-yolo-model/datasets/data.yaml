@@ -1,0 +1,7 @@
+names:
+- aegypti
+- albopictus
+- culex
+nc: 3
+train: C:/Users/user/PythonRelatedFiles/mosqutio_detector_yolo/3merge_dataset_2.0w_blue_bg/images/train
+val: C:/Users/user/PythonRelatedFiles/mosqutio_detector_yolo/3merge_dataset_2.0w_blue_bg/images/val

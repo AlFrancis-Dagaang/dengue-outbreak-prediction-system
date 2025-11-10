@@ -1,0 +1,20 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Ignore large datasets and images
+images/
+dataset/
+mosquito_images/
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.bmp
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
